@@ -5,7 +5,7 @@ var array = [];
 var a, lastFed;
 
 function preload() {
-    sadDog = loadImage("Dog.png");
+    sadDog = loadImage("dog.png");
     happyDog = loadImage("happy dog.png");
 }
 
